@@ -12,13 +12,13 @@ day_night = true
 font = "alison"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Personal website of Alison Presmanes Hill where I blog about data science, programming, education, and R."
+description = "Personal website of Yuxuan Huang"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "avatar.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "apreshill"
+twitter = ""
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -50,7 +50,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "alison@rstudio.com"
+email = "yxhuang@gwu.edu"
 phone = ""
 address = ""
 
