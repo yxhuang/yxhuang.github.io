@@ -55,5 +55,15 @@ My personal webiste, built based on costomized themes in Alison's webiste (....)
 * **resources**
 
   It contain css and also all the pictures used in the website (I'm not sure if it is linked to website directly or just used as a storage folder)
+  
 
+#### 1.3 Menue item mapping:
+
+* Research ==> /post
+
+* Teaching ==> /talks
+
+* CV ==> /projects
+
+* About / Contact ==> contact
 
