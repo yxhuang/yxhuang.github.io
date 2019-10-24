@@ -5,17 +5,17 @@
 
 [[main]]
   name = "Research"
-  url = "/post"
+  url = "/research"
   weight = 10
 
 [[main]]
   name = "Teaching"
-  url = "/talks"
+  url = "/talk"
   weight = 20
 
 [[main]]
   name = "CV"
-  url = "/projects"
+  url = "/files/yuxuan_cv.pdf"
   weight = 30
 
 [[main]]

@@ -45,7 +45,7 @@ Figure 1: Don’t be like this
 <pre class="r"><code>blogdown::hugo_version()</code></pre>
 <p>Then you can reference your <a href="https://themes.gohugo.io/">Hugo theme</a> to find the minimum version of Hugo required by your theme:</p>
 <div class="figure"><span id="fig:unnamed-chunk-3"></span>
-<img src="hugo-min-version.png" alt="Check your theme's minimum Hugo version" width="1073" />
+<img src="hugo-min-version.png" alt="Check your theme's minimum Hugo version"  />
 <p class="caption">
 Figure 2: Check your theme’s minimum Hugo version
 </p>
@@ -54,7 +54,7 @@ Figure 2: Check your theme’s minimum Hugo version
 <pre class="r"><code>blogdown:: update_hugo()</code></pre>
 <p>Check your version again post-update:</p>
 <pre class="r"><code>blogdown::hugo_version()</code></pre>
-<pre><code>## [1] &#39;0.55.6&#39;</code></pre>
+<pre><code>## [1] &#39;0.59.0&#39;</code></pre>
 <p>If you are using Netlify to build your site using Hugo, you’ll want this version to match that- the best way to do that is with a <a href="/post/2019-02-19-hugo-netlify-toml/">netlify.toml file</a>.</p>
 </div>
 <div id="change-the-baseurl" class="section level1">
@@ -75,7 +75,7 @@ if you do not have a domain, set &quot;baseurl&quot; to &quot;/&quot;</code></pr
 </blockquote>
 <p>The main error that would happen without the trailing slash in the past is that you would end up with a site where the theme’s CSS would be all wrong. This was probably because the theme designer used code like this buried in a layout file:</p>
 <pre><code>&lt;link rel=&quot;stylesheet&quot; href=&quot;{{ .Site.BaseURL }}css/style.css&quot;/&gt;</code></pre>
-<p>Now, if you set <code>baseurl = &quot;http://mysite.com&quot;</code> but only rendered locally, things would look just peachy, because the default local server already included the trailing slash. So, the link in the html file would be<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a>:</p>
+<p>Now, if you set <code>baseurl = "http://mysite.com"</code> but only rendered locally, things would look just peachy, because the default local server already included the trailing slash. So, the link in the html file would be<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a>:</p>
 <pre><code>&lt;link rel=&quot;stylesheet&quot; href=&quot;http://localhost:1313/css/style.css&quot;&gt;</code></pre>
 <p>But, at build, the link in the html file would turn into:</p>
 <pre><code>&lt;link rel=&quot;stylesheet&quot; href=&quot;http://mysite.comcss/style.css&quot;&gt;</code></pre>
@@ -112,7 +112,7 @@ Figure 4: Hugo universal theme
 <p>If you can render your site locally but your published site looks different, try the drag-and-drop method:</p>
 <p><img src="https://arm.rbind.io/slides/img/netlify-new-site.png" /></p>
 <p>Use the “Serve Site” Addin, then drag-and-drop the <code>public/</code> folder straight into Netlify. What does this do? You can now see your public site…that you built…with your local version of Hugo. Netlify is doing none of the site building here.</p>
-<p><img src="/post/2019-03-04-hugo-troubleshooting/index_files/figure-html/unnamed-chunk-10-1.gif" /><!-- --></p>
+<p><img src="/yxhuang.github.iopost/2019-03-04-hugo-troubleshooting/index_files/figure-html/unnamed-chunk-10-1.gif" /><!-- --></p>
 <p>One of the first benefits of this approach is that it ensures that you are able to actually <em>generate</em> a <code>public/</code> folder locally! I have seen folks struggle to deploy the wrong repo. This simple step can force you to make sure to use the “Serve Site” Addin to generate the <code>public/</code> folder, and that the repo you are trying to link to Netlify actually contains a Hugo site because you must physically move the <code>public/</code> folder. But this method can also help you diagnose other problems too.</p>
 <p>If your <code>public/</code> folder <strong>does not render</strong> on Netlify, you have work to do locally. I can’t tell you what it is as it can be a number of things, but you can be sure that your problem is not just the Netlify build- it is your local build too.</p>
 <p>If your <code>public/</code> folder <strong>does render</strong> perfectly on Netlify, but you are getting a Netlify build error, then you likely have a Hugo version problem. It might be that the version you are running locally is more recent than the version run by Netlify by default to actually build your site. The good news is there is a quick fix for this! The solution is to upgrade the Hugo version Netlify is using- see my advice <a href="/post/2019-02-19-hugo-netlify-toml/">here for how to do that</a>.</p>
@@ -126,7 +126,7 @@ Figure 4: Hugo universal theme
 <p>“you are strongly recommended to delete the <code>/public/</code> directory before you rebuild the site for publishing every time, because Hugo never deletes it”</p>
 </blockquote>
 <p>Also, this has a bonus of reinforcing for you exactly what the “Serve Site” Addin <em>does</em> - it regenerates the <code>public/</code> folder. This is also the folder that, if you are using <a href="post/2019-02-19-hugo-netlify-toml/">Netlify to build your site</a>, is in your <code>.gitignore</code> file because Netlify (+ Hugo) generates this file “fresh” with each push to your GitHub repository.</p>
-<p><img src="/post/2019-03-04-hugo-troubleshooting/index_files/figure-html/unnamed-chunk-11-1.gif" /><!-- --></p>
+<p><img src="/yxhuang.github.iopost/2019-03-04-hugo-troubleshooting/index_files/figure-html/unnamed-chunk-11-1.gif" /><!-- --></p>
 </div>
 <div id="peruse-public" class="section level1">
 <h1>#5: Peruse <code>public/</code></h1>
