@@ -13,6 +13,8 @@ My personal webiste, built based on costomized themes in Alison's webiste (....)
   如果不用规定的post, talks 这些文件夹，用自己改名的文件夹，就不能在标题后面显示图片缩略图。查了发现是resource文件夹还有public文件夹下里自动generate的不同大小的同插图里，少了150*resize的这个小图，即使自己从/resource/image/post里找到复制过去这两个地方都也不能显示。应该是它widget的模板样式定死了文件夹名字.
   
   我的猜想貌似是对的：”Widget identifiers are set to their respective filenames, so a content/home/about.md widget can be linked from the navigation bar by setting the relevant URL as "#about" in config/_default/menu.toml.“ https://sourcethemes.com/academic/docs/page-builder/ 所以navigation bar里如果link到post，就自动调用了content/home下面的post名称的widget的格式。（不过Alison不是这个，她是link to section (other folders, not widget directly)
+  不过我发现可以仿照Alison的talks==>talk 的做法，建立widget page, 然后page_type 里选择文件夹的名字，比如post, publication, research，自定义的也可以！
+  More about the content and struture of Hugo philosophy, see Flip's github page for his own website: https://github.com/fliptanedo/FlipWebsite2017
 
 * **public:**
 
