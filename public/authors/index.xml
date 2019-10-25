@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Yuxuan Huang, {year}</copyright>
-    <lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 09:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/yxhuang.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,27 +15,18 @@
     <item>
       <title>alison</title>
       <link>/yxhuang.github.io/authors/alison/</link>
-      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2019 09:00:00 +0000</pubDate>
       
       <guid>/yxhuang.github.io/authors/alison/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Amber Thomas</title>
-      <link>/yxhuang.github.io/authors/amber-thomas/</link>
-      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      <title>admin</title>
+      <link>/yxhuang.github.io/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/yxhuang.github.io/authors/amber-thomas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yihui Xie</title>
-      <link>/yxhuang.github.io/authors/yihui-xie/</link>
-      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/yxhuang.github.io/authors/yihui-xie/</guid>
+      <guid>/yxhuang.github.io/authors/admin/</guid>
       <description></description>
     </item>
     
@@ -76,9 +67,18 @@
     </item>
     
     <item>
+      <title>Robert Ford</title>
+      <link>/yxhuang.github.io/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/yxhuang.github.io/authors/yuxuan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>/yxhuang.github.io/authors/yuxuan/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Economics Ph.D. Candidate from the &lt;a href=&#34;https://economics.columbian.gwu.edu/&#34; target=&#34;_blank&#34;&gt;Goeroge Washinton University&lt;/a&gt;.

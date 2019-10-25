@@ -7,26 +7,17 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Yuxuan Huang, {year}</copyright>
-    <lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 09:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/yxhuang.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Research</title>
-      <link>/yxhuang.github.io/publication/</link>
-      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/yxhuang.github.io/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>All Talks &amp; Workshops</title>
-      <link>/yxhuang.github.io/talk/</link>
+      <title>Courses</title>
+      <link>/yxhuang.github.io/courses/</link>
       <pubDate>Mon, 30 Sep 2019 09:00:00 +0000</pubDate>
       
-      <guid>/yxhuang.github.io/talk/</guid>
+      <guid>/yxhuang.github.io/courses/</guid>
       <description></description>
     </item>
     
@@ -36,6 +27,15 @@
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/yxhuang.github.io/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/yxhuang.github.io/publication/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/publication/</guid>
       <description></description>
     </item>
     
@@ -54,6 +54,15 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/yxhuang.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/yxhuang.github.io/research/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/research/</guid>
       <description></description>
     </item>
     
