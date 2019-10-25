@@ -16,7 +16,7 @@ publication_types: ["7"]
 
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
+publication: 
 publication_short: In *STC*
 
 abstract: Reserve requirement changes have been a widely employed monetary policy and macroprudential tool in last decade. Countries may choose this policy, which effectively changes the cost of deposit financing for banks, instead of an interest rate change to avoid influences on capital flows and exchange rates. Such a nonmarket based policy tool can lead to distortionary macroeconomic effects by changing the relative cost of different financing options. Given both its widespread use and the potential to shape financial market outcomes, understanding its impact is important. This article adds new cross-country empirical evidence of reserve requirement changes’ effects on lending-deposit interest rate spreads based on a country-level panel dataset of 75 countries from 1980 to 2015. Demonstrating the impact on the spread is important as it highlights the impact of reserve requirement policies and how they can shape funding decisions. The theoretical framework indicates that the effects of reserve requirement rate changes on the interest rate spread depend on countries’ financial market conditions such as financial market development. The empirical result shows that raising reserve requirements on average widen the lending-deposit interest rate spread. Such impacts are dampened for countries with more developed financial markets. The impacts of reserve requirement changes on the interest rate spread are further confirmed by propensity score matching estimators that address the self-selection bias associated with reserve requirement hikes. The results are robust to different covariate measures and various treatment effect estimators.
@@ -64,13 +64,6 @@ image:
 #slides: example
 ---
 
-#{{% alert note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#{{% /alert %}}
-
-#{{% alert note %}}
-#Click the *Slides* button above to demo Academic's Markdown slides feature.
-#{{% /alert %}}
-
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
+<!--
+ Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+-->
