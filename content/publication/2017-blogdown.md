@@ -1,6 +1,8 @@
 +++
 abstract = "blogdown: Creating Websites with R Markdown provides a practical guide for creating websites using the blogdown package in R. In this book, we show you how to use dynamic R Markdown documents to build static websites featuring R code (or other programming languages) with automatically rendered output such as graphics, tables, analysis results, and HTML widgets. The blogdown package is also suitable for technical writing with elements such as citations, footnotes, and LaTeX math. This makes blogdown an ideal platform for any website designed to communicate information about data science, data analysis, data visualization, or R programming. Note that blogdown is not just for blogging or sites about R; it can also be used to create general-purpose websites. By default, blogdown uses Hugo, a popular open-source static website generator, which provides a fast and flexible way to build your site content to be shared online. Other website generators like Jekyll and Hexo are also supported."
 
+summary ="sumary....."
+
 authors = ["Yihui Xie", "alison", "Amber Thomas"]
 date = "2017-12-14"
 image_preview = ""

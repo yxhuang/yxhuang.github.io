@@ -377,7 +377,11 @@ summary {
 <p>contents on each pages of the website, the sub-folders are the names of the pages and other contents, like “contact”, “authors”, “home”, “talks”, “publication”…</p>
 <p>貌似md文件里面的 都是widget, page_type = “talk”, “publication”, “post” “project” 对应的就是相应文件夹里的内容。然后Alison是用talks projects 等自己建的文件夹作为媒介文件调用上面真正储存各个publication, project的文内容。</p>
 <p>如果不用规定的post, talks 这些文件夹，用自己改名的文件夹，就不能在标题后面显示图片缩略图。查了发现是resource文件夹还有public文件夹下里自动generate的不同大小的同插图里，少了150*resize的这个小图，即使自己从/resource/image/post里找到复制过去这两个地方都也不能显示。应该是它widget的模板样式定死了文件夹名字.</p>
-<p>我的猜想貌似是对的：”Widget identifiers are set to their respective filenames, so a content/home/about.md widget can be linked from the navigation bar by setting the relevant URL as “#about” in config/_default/menu.toml.“ <a href="https://sourcethemes.com/academic/docs/page-builder/" class="uri">https://sourcethemes.com/academic/docs/page-builder/</a> 所以navigation bar里如果link到post，就自动调用了content/home下面的post名称的widget的格式。（不过Alison不是这个，她是link to section (other folders, not widget directly) 不过我发现可以仿照Alison的talks==&gt;talk 的做法，建立widget page, 然后page_type 里选择文件夹的名字，比如post, publication, research，自定义的也可以！</p></li>
+<p>我的猜想貌似是对的：”Widget identifiers are set to their respective filenames, so a content/home/about.md widget can be linked from the navigation bar by setting the relevant URL as “#about” in config/_default/menu.toml.“ <a href="https://sourcethemes.com/academic/docs/page-builder/" class="uri">https://sourcethemes.com/academic/docs/page-builder/</a> 所以navigation bar里如果link到post，就自动调用了content/home下面的post名称的widget的格式。（不过Alison不是这个，她是link to section (other folders, not widget directly) 不过我发现可以仿照Alison的talks==&gt;talk 的做法，建立widget page, 然后page_type 里选择文件夹的名字，比如post, publication, research，自定义的也可以！ More about the content and struture of Hugo philosophy, see Hugo-academic github page:</p>
+<p><a href="https://github.com/gcushen/hugo-academic" class="uri">https://github.com/gcushen/hugo-academic</a></p>
+<p>and Flip’s github page for his own website:</p>
+<p>old: <a href="https://github.com/fliptanedo/FlipWebsite2017" class="uri">https://github.com/fliptanedo/FlipWebsite2017</a></p>
+<p>new: <a href="https://github.com/fliptanedo/academic-flip" class="uri">https://github.com/fliptanedo/academic-flip</a></p></li>
 <li><p><strong>public:</strong></p>
 <p>This folder content all the files for publishing website (all conetents to be uploaded to the host)</p></li>
 <li><p><strong>static </strong></p>

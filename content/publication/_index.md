@@ -2,6 +2,13 @@
 header:
   caption: ""
   image: ""
-title: Publications
-view: 4
+title: Research
+
+# View.
+#  1 = List
+#  2 = Compact
+#  3 = Card
+#  4 = Citation
+
+view: 2
 ---
