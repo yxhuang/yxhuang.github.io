@@ -7,10 +7,49 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Yuxuan Huang, {year}</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/yxhuang.github.io/categories/course/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Econ 2180 -- Survey of International Economics -- Summer 2016</title>
+      <link>/yxhuang.github.io/courses/2016summer-econ2180/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/courses/2016summer-econ2180/</guid>
+      <description>
+
+
+&lt;p&gt;A undergraduate intermedia level economics course.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stata Fundermentals -- Fall 2019</title>
+      <link>/yxhuang.github.io/courses/2019fall-stata/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/courses/2019fall-stata/</guid>
+      <description>
+
+
+&lt;p&gt;A graduate level course for introduction of Stata (statistical software).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stata Fundermentals -- Spring 2019</title>
+      <link>/yxhuang.github.io/courses/2019spring-stata/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/courses/2019spring-stata/</guid>
+      <description>
+
+
+&lt;p&gt;A graduate level course for introduction of Stata (statistical software).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Introduction to Data Wrangling, Analysis, &amp; Communication</title>

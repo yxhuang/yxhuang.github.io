@@ -7,77 +7,89 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Yuxuan Huang, {year}</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/yxhuang.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/yxhuang.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Is Digitalization Driving Domestic Inflation?</title>
+      <link>/yxhuang.github.io/publication/2019-ip/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/yxhuang.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>/yxhuang.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/yxhuang.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>/yxhuang.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/yxhuang.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <guid>/yxhuang.github.io/publication/2019-ip/</guid>
+      <description>&lt;!--
+ Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+--&gt;
 </description>
     </item>
     
     <item>
       <title>Reserve requirement policy and interest rate spread</title>
       <link>/yxhuang.github.io/publication/2019-rr/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/yxhuang.github.io/publication/2019-rr/</guid>
+      <description>&lt;!--
+ Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Choice of Sterilized Intervention Tools</title>
+      <link>/yxhuang.github.io/publication/2019-sterilization/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/publication/2019-sterilization/</guid>
+      <description>&lt;!--
+ Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Macroeconomics, Government Intervention and Asset Price Fluctuation: A Study on Transfer Mechanisms Based on VAR and RVAR Models</title>
+      <link>/yxhuang.github.io/publication/2014-housing-stock-price/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/publication/2014-housing-stock-price/</guid>
+      <description>&lt;!--
+ Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Community Donations’ Effects on Universities’ Funding Diversification: Experience from Australia</title>
+      <link>/yxhuang.github.io/publication/2011-university-australia/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/publication/2011-university-australia/</guid>
+      <description>&lt;!--
+ Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Are There Borders on the Internet? ---International Price Dispersion on eBay</title>
+      <link>/yxhuang.github.io/publication/2019-border-effect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/publication/2019-border-effect/</guid>
+      <description>&lt;!--
+ Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reserve requirement policy and interest rate spread</title>
+      <link>/yxhuang.github.io/publication/2019-forecasting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/publication/2019-forecasting/</guid>
       <description>&lt;!--
  Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 --&gt;

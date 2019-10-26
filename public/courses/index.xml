@@ -7,27 +7,73 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Yuxuan Huang, {year}</copyright>
-    <lastBuildDate>Mon, 30 Sep 2019 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/yxhuang.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Communicating with R Markdown Workshop</title>
-      <link>/yxhuang.github.io/courses/2019-ysc-workshop/</link>
-      <pubDate>Mon, 30 Sep 2019 09:00:00 +0000</pubDate>
+      <title>Econ 2180 -- Survey of International Economics -- Summer 2016</title>
+      <link>/yxhuang.github.io/courses/2016summer-econ2180/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/yxhuang.github.io/courses/2019-ysc-workshop/</guid>
+      <guid>/yxhuang.github.io/courses/2016summer-econ2180/</guid>
       <description>
 
 
-&lt;p&gt;A full-day workshop for &lt;i class=&#34;fab fa-r-project&#34;&gt;&lt;/i&gt; users who want to get more out of &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34;&gt;R Markdown&lt;/a&gt; (and friends). In this workshop, you will create, publish, and share some beautiful data products. You’ll learn to make:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Parameterized reports&lt;/li&gt;
-&lt;li&gt;Version-controlled R Markdown projects&lt;/li&gt;
-&lt;li&gt;Templates within a package&lt;/li&gt;
-&lt;li&gt;Shareable &lt;a href=&#34;https://rstudio.github.io/distill/basics.html&#34;&gt;scientific/technical articles&lt;/a&gt;, &lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/xaringan.html&#34;&gt;slides&lt;/a&gt;, &lt;a href=&#34;https://rmarkdown.rstudio.com/flexdashboard/&#34;&gt;dashboards&lt;/a&gt;, and &lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/websites.html&#34;&gt;websites&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;A undergraduate intermedia level economics course.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stata Fundermentals -- Fall 2019</title>
+      <link>/yxhuang.github.io/courses/2019fall-stata/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/courses/2019fall-stata/</guid>
+      <description>
+
+
+&lt;p&gt;A graduate level course for introduction of Stata (statistical software).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stata Fundermentals -- Spring 2019</title>
+      <link>/yxhuang.github.io/courses/2019spring-stata/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/courses/2019spring-stata/</guid>
+      <description>
+
+
+&lt;p&gt;A graduate level course for introduction of Stata (statistical software).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching Assistant for Basic Marketing Management</title>
+      <link>/yxhuang.github.io/courses/ta-marketing-2013fall/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/courses/ta-marketing-2013fall/</guid>
+      <description>
+
+
+&lt;p&gt;A undergraduate introduction level marketing course.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching Assistant for Econ 2180 -- Survey of International Economics</title>
+      <link>/yxhuang.github.io/courses/ta-econ2180-2015fall-2018spring/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/courses/ta-econ2180-2015fall-2018spring/</guid>
+      <description>
+
+
+&lt;p&gt;A undergraduate intermedia level economics course.&lt;/p&gt;
 </description>
     </item>
     

@@ -7,26 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Yuxuan Huang, {year}</copyright>
-    <lastBuildDate>Mon, 30 Sep 2019 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/yxhuang.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>alison</title>
-      <link>/yxhuang.github.io/authors/alison/</link>
-      <pubDate>Mon, 30 Sep 2019 09:00:00 +0000</pubDate>
+      <title></title>
+      <link>/yxhuang.github.io/authors/yuxuan/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/yxhuang.github.io/authors/alison/</guid>
+      <guid>/yxhuang.github.io/authors/yuxuan/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a Economics Ph.D. Candidate from the &lt;a href=&#34;https://economics.columbian.gwu.edu/&#34; target=&#34;_blank&#34;&gt;Goeroge Washinton University&lt;/a&gt;.
+&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yuxuan Huang (Instructor)</title>
+      <link>/yxhuang.github.io/authors/yuxuan-huang-instructor/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/authors/yuxuan-huang-instructor/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>admin</title>
-      <link>/yxhuang.github.io/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Yuxuan Huang (TA)</title>
+      <link>/yxhuang.github.io/authors/yuxuan-huang-ta/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/yxhuang.github.io/authors/admin/</guid>
+      <guid>/yxhuang.github.io/authors/yuxuan-huang-ta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alison</title>
+      <link>/yxhuang.github.io/authors/alison/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/authors/alison/</guid>
       <description></description>
     </item>
     
@@ -67,23 +87,21 @@
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/yxhuang.github.io/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>Shanming Li</title>
+      <link>/yxhuang.github.io/authors/shanming-li/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>/yxhuang.github.io/authors/robert-ford/</guid>
+      <guid>/yxhuang.github.io/authors/shanming-li/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>/yxhuang.github.io/authors/yuxuan/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>Yajuan Mao</title>
+      <link>/yxhuang.github.io/authors/yajuan-mao/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>/yxhuang.github.io/authors/yuxuan/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a Economics Ph.D. Candidate from the &lt;a href=&#34;https://economics.columbian.gwu.edu/&#34; target=&#34;_blank&#34;&gt;Goeroge Washinton University&lt;/a&gt;.
-&amp;hellip;&lt;/p&gt;
-</description>
+      <guid>/yxhuang.github.io/authors/yajuan-mao/</guid>
+      <description></description>
     </item>
     
   </channel>
