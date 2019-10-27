@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on Yuxuan Huang</title>
+    <link>/yxhuang.github.io/contact/</link>
+    <description>Recent content in Contacts on Yuxuan Huang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Yuxuan Huang, {year}</copyright>
+    
+	    <atom:link href="/yxhuang.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>/yxhuang.github.io/contact/pre-about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/contact/pre-about-me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/yxhuang.github.io/contact/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/contact/about-me/</guid>
+      <description>&lt;p&gt;I am originally from Guangzhou, China&amp;hellip;..I earn(&lt;a href=&#34;https://www.gatech.edu/&#34; target=&#34;_blank&#34;&gt;https://www.gatech.edu/&lt;/a&gt;). After college, I studied Economics, receiving my Ph.D. from [George Washington University]() (2020). I worked as&amp;hellip;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;&#34; class=&#34;center-block&#34; alt=&#34;&#34; style=&#34;width:60%;height:60%;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;My [research]() focused on&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;&#34; class=&#34;center-block&#34; alt=&#34;&#34; style=&#34;width:60%;height:60%;&#34;&gt;
+In my free time, I love &amp;hellip;. Thank you so much for reading.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Get in touch</title>
+      <link>/yxhuang.github.io/contact/pre-contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/contact/pre-contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
