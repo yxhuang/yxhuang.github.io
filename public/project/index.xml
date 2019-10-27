@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Yuxuan Huang</title>
+    <link>/yxhuang.github.io/project/</link>
+    <description>Recent content in Projects on Yuxuan Huang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Yuxuan Huang, {year}</copyright>
+    <lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/yxhuang.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R Markdown for Medicine</title>
+      <link>/yxhuang.github.io/project/rmd4medicine/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/project/rmd4medicine/</guid>
+      <description>&lt;p&gt;Starting with a mock clinical trial dataset, we’ll use R Markdown to combine prose, R code, and figures and tables created with R code into a nicely formatted and reproducible final manuscript.&lt;/p&gt;
+
+&lt;p&gt;For the &lt;a href=&#34;https://r-medicine.com/&#34; target=&#34;_blank&#34;&gt;2019 R / Medicine conference&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>/yxhuang.github.io/projects/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labhub</title>
+      <link>/yxhuang.github.io/project/labhub/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/project/labhub/</guid>
+      <description>&lt;p&gt;In this workshop, Dr. Alison Hill and Robin Champieux demonstrated tools and methods for building transparency within a lab, and onboarding new graduate students and postdocs. We provided a &lt;a href=&#34;https://github.com/apreshill/labhub&#34; target=&#34;_blank&#34;&gt;template GitHub repository&lt;/a&gt; and code of conduct designed to facilitate a healthy and productive learning and research environment. You are encouraged to use these tools to communicate expectations, document protocols, receive feedback, and facilitate the long-term value of students’ and trainees’ contributions.&lt;/p&gt;
+
+&lt;p&gt;Labhub is a &lt;em&gt;work in progress&lt;/em&gt;. We created &lt;a href=&#34;https://github.com/apreshill/labhub&#34; target=&#34;_blank&#34;&gt;this repository&lt;/a&gt; as an education and demonstration tool for faculty, postdocs, and students curious about how documentation, open science workflows, and tools like Github can contribute to a healthy and productive research environment. Your ideas and contributions are welcome!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Up &amp; Running with blogdown</title>
+      <link>/yxhuang.github.io/project/up-running-blogdown/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/project/up-running-blogdown/</guid>
+      <description>&lt;p&gt;We will cover:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;blogdown&lt;/strong&gt; R package&lt;/li&gt;
+&lt;li&gt;Hugo themes&lt;/li&gt;
+&lt;li&gt;Adding content to personalize your site&lt;/li&gt;
+&lt;li&gt;Posting&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t want to blog? / just want to knit?&lt;/li&gt;
+&lt;li&gt;Customizing themes&lt;/li&gt;
+&lt;li&gt;Troubleshooting common problems&lt;/li&gt;
+&lt;li&gt;Deployment options and recommendations&lt;/li&gt;
+&lt;li&gt;Domain options available through RStudio/rbind&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you are planning on attending this workshop, please click on the HTML link above for how to prepare before the workshop.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;blogdown-meetup.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code Your Graph Workshop</title>
+      <link>/yxhuang.github.io/project/code-your-graph/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/project/code-your-graph/</guid>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;code-your-graph.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advanced R Markdown</title>
+      <link>/yxhuang.github.io/project/advanced-r-markdown/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/project/advanced-r-markdown/</guid>
+      <description>&lt;p&gt;This two-day workshop iss designed for those who want to take their R Markdown skills to the next level. We’ll talk about many low-level details in the rmarkdown package and the whole R Markdown ecosystem. The two goals of this workshop are: 1) learn how to fully customize R Markdown output (HTML, LaTeX/PDF, Word, and PowerPoint); and 2) learn more about existing R Markdown extensions in the ecosystem, such as flexdashboard, bookdown, blogdown, pkgdown, xaringan, rticles, and learnr. We will also talk about how to use or develop new language engines (languages that are not R), how to develop HTML widgets, and integrate Shiny with R Markdown.&lt;/p&gt;
+
+&lt;p&gt;See the workshop website for more, and links to individual slides below.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bakeoff</title>
+      <link>/yxhuang.github.io/project/bakeoff/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/project/bakeoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogdown: Creating Websites with R Markdown</title>
+      <link>/yxhuang.github.io/project/blogdown-book/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/project/blogdown-book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Data Wrangling, Analysis, &amp; Communication</title>
+      <link>/yxhuang.github.io/project/ohsu-biostats/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/project/ohsu-biostats/</guid>
+      <description>&lt;p&gt;Part of a year-long curricula on open science, data, and research practice for incoming graduate students in the biomedical sciences, developed in collaboration with OHSU School of MedicineGraduate Studies. This course was offered at Oregon Health &amp;amp; Science University to graduate students in the biomedical sciences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Principles &amp; Practice of Data Visualization</title>
+      <link>/yxhuang.github.io/project/ohsu-dataviz/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/project/ohsu-dataviz/</guid>
+      <description>&lt;p&gt;This was a 12-week course with weekly 1.5 hour hands-on labs using R and the &lt;code&gt;ggplot2&lt;/code&gt; package. This course (CS631) was co-developed with Drs. Steven Bedrick and Jackie Wirz. This team-taught course was offered at Oregon Health &amp;amp; Science University to graduate students in the biomedical sciences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probability &amp; Statistics for Scientists and Engineers</title>
+      <link>/yxhuang.github.io/project/ohsu-cs-stats/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/project/ohsu-cs-stats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RLadies xaringan theme</title>
+      <link>/yxhuang.github.io/project/rladies-xaringan/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/project/rladies-xaringan/</guid>
+      <description>
+
+
+&lt;p&gt;Here is a demo slide deck using the theme:&lt;/p&gt;
+&lt;iframe src=&#34;https://alison.rbind.io/slides/rladies-demo-slides.html#1&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Summer of blogdown</title>
+      <link>/yxhuang.github.io/project/summer-of-blogdown/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/project/summer-of-blogdown/</guid>
+      <description>&lt;p&gt;Four daily 1-hour sessions plus 30-60 minutes of homework for 3 nights. See links to each day&amp;rsquo;s materials, including slides and homeworks, below.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

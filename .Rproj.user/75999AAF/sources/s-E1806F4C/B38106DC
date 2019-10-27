@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571880604798.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B38106DC",
+    "lastKnownWriteTime" : 1571893198,
+    "last_content_update" : 1571893198191,
+    "path" : "D:/OneDrive - GW/Research/Github/yxhuang.github.io/config/_default/menus.toml",
+    "project_path" : "config/_default/menus.toml",
+    "properties" : {
+        "cursorPosition" : "12,15",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

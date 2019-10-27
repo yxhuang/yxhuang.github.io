@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All Talks &amp; Workshops on Yuxuan Huang</title>
+    <link>/yxhuang.github.io/teaching/</link>
+    <description>Recent content in All Talks &amp; Workshops on Yuxuan Huang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Yuxuan Huang, {year}</copyright>
+    <lastBuildDate>Mon, 30 Sep 2019 09:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/yxhuang.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Communicating with R Markdown Workshop</title>
+      <link>/yxhuang.github.io/teaching/2019-ysc-workshop/</link>
+      <pubDate>Mon, 30 Sep 2019 09:00:00 +0000</pubDate>
+      
+      <guid>/yxhuang.github.io/teaching/2019-ysc-workshop/</guid>
+      <description>
+
+
+&lt;p&gt;A full-day workshop for &lt;i class=&#34;fab fa-r-project&#34;&gt;&lt;/i&gt; users who want to get more out of &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34;&gt;R Markdown&lt;/a&gt; (and friends). In this workshop, you will create, publish, and share some beautiful data products. You’ll learn to make:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Parameterized reports&lt;/li&gt;
+&lt;li&gt;Version-controlled R Markdown projects&lt;/li&gt;
+&lt;li&gt;Templates within a package&lt;/li&gt;
+&lt;li&gt;Shareable &lt;a href=&#34;https://rstudio.github.io/distill/basics.html&#34;&gt;scientific/technical articles&lt;/a&gt;, &lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/xaringan.html&#34;&gt;slides&lt;/a&gt;, &lt;a href=&#34;https://rmarkdown.rstudio.com/flexdashboard/&#34;&gt;dashboards&lt;/a&gt;, and &lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/websites.html&#34;&gt;websites&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
