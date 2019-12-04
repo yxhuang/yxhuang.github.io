@@ -4,21 +4,51 @@
   
   <url>
     <loc>/yxhuang.github.io/authors/yuxuan/</loc>
-    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/yxhuang.github.io/publication_types/3/</loc>
-    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/yxhuang.github.io/publication_types/7/</loc>
-    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/yxhuang.github.io/authors/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/yxhuang.github.io/publication_types/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/yxhuang.github.io/publication/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/yxhuang.github.io/publication/2019-rr/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/yxhuang.github.io/tags/source-themes/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/yxhuang.github.io/tags/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/yxhuang.github.io/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/yxhuang.github.io/publication_types/3/</loc>
     <lastmod>2019-10-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,37 +68,7 @@
   </url>
   
   <url>
-    <loc>/yxhuang.github.io/publication_types/</loc>
-    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/yxhuang.github.io/publication/</loc>
-    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/yxhuang.github.io/publication/2019-rr/</loc>
-    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/yxhuang.github.io/tags/source-themes/</loc>
-    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/yxhuang.github.io/tags/</loc>
-    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/yxhuang.github.io/publication/2019-sterilization/</loc>
-    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/yxhuang.github.io/</loc>
     <lastmod>2019-10-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,12 +83,12 @@
   </url>
   
   <url>
-    <loc>/yxhuang.github.io/courses/</loc>
+    <loc>/yxhuang.github.io/courses/2016summer-econ2180/</loc>
     <lastmod>2019-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/yxhuang.github.io/courses/2016summer-econ2180/</loc>
+    <loc>/yxhuang.github.io/courses/</loc>
     <lastmod>2019-09-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -118,16 +118,6 @@
   </url>
   
   <url>
-    <loc>/yxhuang.github.io/authors/yuxuan-huang-instructor/</loc>
-    <lastmod>2019-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/yxhuang.github.io/authors/yuxuan-huang-ta/</loc>
-    <lastmod>2019-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/yxhuang.github.io/contact/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -150,6 +140,11 @@
   <url>
     <loc>/yxhuang.github.io/teaching/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/yxhuang.github.io/publication/2019-forecasting/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -218,10 +213,6 @@
   
   <url>
     <loc>/yxhuang.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/yxhuang.github.io/publication/2019-forecasting/</loc>
   </url>
   
 </urlset>

@@ -15,10 +15,6 @@ all_day: false
 #publishdate: "2019-06-15"
 
 links:
-- icon: 
-  icon_pack: fab
-  name: Syllabus
-  url: 
 
 categories:
   - TA
