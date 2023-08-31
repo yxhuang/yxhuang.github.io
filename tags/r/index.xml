@@ -2,24 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Yuxuan Huang</title>
-    <link>/yxhuang.github.io/tags/r/</link>
+    <link>yxhuang.github.io/tags/r/</link>
     <description>Recent content in R on Yuxuan Huang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Yuxuan Huang, {year}</copyright>
     <lastBuildDate>Thu, 14 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/yxhuang.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="yxhuang.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Up &amp; Running with blogdown</title>
-      <link>/yxhuang.github.io/project/up-running-blogdown/</link>
+      <link>yxhuang.github.io/project/up-running-blogdown/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/yxhuang.github.io/project/up-running-blogdown/</guid>
+      <guid>yxhuang.github.io/project/up-running-blogdown/</guid>
       <description>&lt;p&gt;We will cover:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;The &lt;strong&gt;blogdown&lt;/strong&gt; R package&lt;/li&gt;
 &lt;li&gt;Hugo themes&lt;/li&gt;
@@ -31,9 +30,7 @@
 &lt;li&gt;Deployment options and recommendations&lt;/li&gt;
 &lt;li&gt;Domain options available through RStudio/rbind&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;If you are planning on attending this workshop, please click on the HTML link above for how to prepare before the workshop.&lt;/p&gt;
-
 
 
 
