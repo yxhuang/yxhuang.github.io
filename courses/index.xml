@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on Yuxuan Huang</title>
-    <link>/yxhuang.github.io/courses/</link>
-    <description>Recent content in Research on Yuxuan Huang</description>
+    <title>Courses on Yuxuan Huang</title>
+    <link>yxhuang.github.io/courses/</link>
+    <description>Recent content in Courses on Yuxuan Huang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Yuxuan Huang, {year}</copyright>
     <lastBuildDate>Mon, 16 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/yxhuang.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="yxhuang.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Econ 2180 -- Survey of International Economics -- Summer 2016</title>
-      <link>/yxhuang.github.io/courses/2016summer-econ2180/</link>
+      <link>yxhuang.github.io/courses/2016summer-econ2180/</link>
       <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/yxhuang.github.io/courses/2016summer-econ2180/</guid>
+      <guid>yxhuang.github.io/courses/2016summer-econ2180/</guid>
       <description>
 
 
@@ -27,10 +27,10 @@
     
     <item>
       <title>Stata Fundermentals -- Fall 2019</title>
-      <link>/yxhuang.github.io/courses/2019fall-stata/</link>
+      <link>yxhuang.github.io/courses/2019fall-stata/</link>
       <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/yxhuang.github.io/courses/2019fall-stata/</guid>
+      <guid>yxhuang.github.io/courses/2019fall-stata/</guid>
       <description>
 
 
@@ -40,10 +40,10 @@
     
     <item>
       <title>Stata Fundermentals -- Spring 2019</title>
-      <link>/yxhuang.github.io/courses/2019spring-stata/</link>
+      <link>yxhuang.github.io/courses/2019spring-stata/</link>
       <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/yxhuang.github.io/courses/2019spring-stata/</guid>
+      <guid>yxhuang.github.io/courses/2019spring-stata/</guid>
       <description>
 
 
@@ -53,10 +53,10 @@
     
     <item>
       <title>Teaching Assistant for Basic Marketing Management</title>
-      <link>/yxhuang.github.io/courses/ta-marketing-2013fall/</link>
+      <link>yxhuang.github.io/courses/ta-marketing-2013fall/</link>
       <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/yxhuang.github.io/courses/ta-marketing-2013fall/</guid>
+      <guid>yxhuang.github.io/courses/ta-marketing-2013fall/</guid>
       <description>
 
 
@@ -66,10 +66,10 @@
     
     <item>
       <title>Teaching Assistant for Econ 2180 -- Survey of International Economics</title>
-      <link>/yxhuang.github.io/courses/ta-econ2180-2015fall-2018spring/</link>
+      <link>yxhuang.github.io/courses/ta-econ2180-2015fall-2018spring/</link>
       <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/yxhuang.github.io/courses/ta-econ2180-2015fall-2018spring/</guid>
+      <guid>yxhuang.github.io/courses/ta-econ2180-2015fall-2018spring/</guid>
       <description>
 
 
